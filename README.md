@@ -1,7 +1,7 @@
 # Gatsby Starter - DSC KITRC WORKSHOP
 
 ## Installation
-
+mak
 **Fork this repository**
 
 Clone repository:
